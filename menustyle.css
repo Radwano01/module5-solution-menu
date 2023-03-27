@@ -159,6 +159,10 @@ section span {
     text-align: center;
 }
 
+#copyright {
+    height: 5vh;
+}
+
 @media (min-width: 320px) and (max-width: 425px) {
     .categories a img{
         width: calc(30%);
